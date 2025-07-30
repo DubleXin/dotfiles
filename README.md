@@ -6,3 +6,9 @@ for pomodoro timer:
 https://github.com/Andeskjerf/waybar-module-pomodoro
 
 wallpaper- 3.jpg
+
+
+
+## simple waybar with pomodoro timer to get started
+[![preview](https://raw.githubusercontent.com/Prateek7071/dotfiles/main/asset/image.png)]
+[Configuration , Style and Wallpapers](https://github.com/Prateek7071/dotfiles)
