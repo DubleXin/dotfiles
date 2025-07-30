@@ -4,3 +4,5 @@ A simple waybar, with pomodoro timer.
 
 for pomodoro timer:
 https://github.com/Andeskjerf/waybar-module-pomodoro
+
+wallpaper- 3.jpg
