@@ -9,6 +9,6 @@ for pomodoro timer:
 https://github.com/Andeskjerf/waybar-module-pomodoro
 
 Required Fonts:
-font-family: 'SF Pro Text', 'Inter', 'Segoe UI, NotoSans Nerd Font', sans-serif;
+'SF Pro Text', 'Inter', 'Segoe UI, NotoSans Nerd Font', 'sans-serif'
 
 [wallpaper](https://raw.githubusercontent.com/Prateek7071/dotfiles/main/asset/3.jpg)
