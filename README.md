@@ -16,4 +16,4 @@ Required Fonts:
 Waybar modules: <br>
 Left: Workspace, Uptime, CPU monitoring (opens htop when clicked) <br>
 Centre: Clock with day and date <br>
-Right: Pomodoro timer, Bluetooth (opens blueman-manager on click), Wifi, Volume (pulseaudio pauvcontrols), Brightness and Power
+Right: Pomodoro timer, Bluetooth (opens blueman-manager on click), Wifi (nm connection editor), Volume (pulseaudio pauvcontrols), Brightness and Power
