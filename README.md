@@ -13,7 +13,7 @@ Required Fonts:
 
 [wallpaper](https://raw.githubusercontent.com/Prateek7071/dotfiles/main/asset/3.jpg)<br>
 
-Waybar modules: 
-Workspace, uptime, CPU monitoring (opens htop when clicked) 
-clock with day and date 
-pomodoro timer, bluetooth (opens blueman-manager on click), Wifi, Volume (pulseaudio pauvcontrols), Brightness and Power
+Waybar modules: <br>
+Left: Workspace, Uptime, CPU monitoring (opens htop when clicked) <br>
+Centre: Clock with day and date <br>
+Right: Pomodoro timer, Bluetooth (opens blueman-manager on click), Wifi, Volume (pulseaudio pauvcontrols), Brightness and Power
