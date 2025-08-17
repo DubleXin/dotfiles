@@ -11,7 +11,7 @@ https://github.com/Andeskjerf/waybar-module-pomodoro
 Required Fonts:
 'SF Pro Text', 'Inter', 'Segoe UI, NotoSans Nerd Font', 'sans-serif'
 
-[wallpaper](https://raw.githubusercontent.com/Prateek7071/dotfiles/main/asset/3.jpg)<br>
+[windows wallpaper](https://raw.githubusercontent.com/Prateek7071/dotfiles/main/asset/3.jpg)<br>
 
 Waybar modules: <br>
 Left: Workspace, Uptime, CPU monitoring (opens htop when clicked) <br>
